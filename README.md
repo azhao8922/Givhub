@@ -2,19 +2,19 @@
 
 GivHub is our solution to cutting down food waste. It's a Progressive Web Application that streamlines the food donation process by matching couriers to donors to deliver the donations directly to the food banks.
 
-## Lyft Apprenticeship README
+# Lyft Apprenticeship README
 Hello! I worked with 2 other collaborators (/sarahyaepark & /tylereaden) for this P2P delivery web application. Below are some details:
 
 ### Some Specific Personal Contributions:
 
-* **MongoDB Schema Design** - ~/server/database/schemas [a relative link](server/database/schemas)
-* **MapBox Integration** - ~/client/components/molecules/Map
-  * Pathing for courier
-  * Live courier tracking
-  * Real-time milestone updates
-* **REST API routes** - ~/server/routes/users.js
-* **Redux Reducers/Thunks** - ~/client/store/reducers/userCart.js
-* **React Components** - ~/client/components/pages/OrderInProgressPage/OrderInProgress.js
+* **MongoDB Schema Design** -[/server/database/schemas](server/database/schemas)
+* **MapBox Integration** - [/client/components/molecules/Map](client/components/molecules/Map)
+  * *Pathing for courier*
+  * *Live courier tracking*
+  * *Real-time milestone updates*
+* **REST API routes** - [/server/routes/users.js](server/routes/users.js)
+* **Redux Reducers/Thunks** - [/client/store/reducers/userCart.js](client/store/reducers/userCart.js)
+* **React Components** - [/client/components/pages/OrderInProgressPage/OrderInProgress.js](client/components/pages/OrderInProgressPage/OrderInProgress.js)
 
 ## Donor View
 <img class="inline-block" width="300px" height="650px" src="./public/Demogif.gif">
