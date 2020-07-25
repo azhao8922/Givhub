@@ -6,7 +6,7 @@ GivHub is our solution to cutting down food waste. It's a Progressive Web Applic
 Hello! I worked with 2 other collaborators (/sarahyaepark & /tylereaden) for this P2P delivery web application. 
 
 ### Video Demonstration
-Please watch our presentation of it here!!: [Presentation](https://www.youtube.com/watch?v=__foXdwet58)
+Please watch our presentation of it here! :blush: [Presentation](https://www.youtube.com/watch?v=__foXdwet58)
 
 
 ### Some Specific Personal Contributions:
