@@ -3,7 +3,10 @@
 GivHub is our solution to cutting down food waste. It's a Progressive Web Application that streamlines the food donation process by matching couriers to donors to deliver the donations directly to the food banks.
 
 # Lyft Apprenticeship README
-Hello! I worked with 2 other collaborators (/sarahyaepark & /tylereaden) for this P2P delivery web application. Below are some details:
+Hello! I worked with 2 other collaborators (/sarahyaepark & /tylereaden) for this P2P delivery web application. 
+
+Please watch our presentation of it here!!: [Presentation](https://www.youtube.com/watch?v=__foXdwet58)
+Below are a few of my direct contributions, for every major category:
 
 ### Some Specific Personal Contributions:
 
