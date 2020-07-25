@@ -5,10 +5,13 @@ GivHub is our solution to cutting down food waste. It's a Progressive Web Applic
 # Lyft Apprenticeship README
 Hello! I worked with 2 other collaborators (/sarahyaepark & /tylereaden) for this P2P delivery web application. 
 
+### Video Demonstration
 Please watch our presentation of it here!!: [Presentation](https://www.youtube.com/watch?v=__foXdwet58)
-Below are a few of my direct contributions, for every major category:
+
 
 ### Some Specific Personal Contributions:
+
+Below are a few of my direct contributions, for every major category:
 
 * **MongoDB Schema Design** -[/server/database/schemas](server/database/schemas)
 * **MapBox Integration** - [/client/components/molecules/Map](client/components/molecules/Map)
