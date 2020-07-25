@@ -33,22 +33,4 @@ router.post('/sms', (req, res) => {
   res.sendStatus(201)
 })
 
-// router.get('/api/tags', (req, res) => {
-//   res.send([
-//     'MERN',
-//     'Node',
-//     'Express',
-//     'Webpack',
-//     'React',
-//     'Redux',
-//     'Mongoose',
-//     'Bulma',
-//     'Fontawesome',
-//     'Ramda',
-//     'ESLint',
-//     'Jest',
-//     'Enzyme'
-//   ])
-// })
-
 module.exports = router
